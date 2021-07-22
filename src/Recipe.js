@@ -83,7 +83,6 @@ const handleExpandClick = () => {
         </CardContent>
       </Collapse>
     </Card>
-
             {/* <p>{title}</p>
             <p>{calories}</p>
             <img src={image} alt="" />
