@@ -4,7 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-is:issue is:open https://github.com/harshadzagade/Recipe_App/blob/master/public/Recipeapp_home.PNG
+
+![](https://github.com/harshadzagade/Recipe_App/blob/master/public/Recipeapp_home.PNG)
+
 
 
 In the project directory, you can run:
